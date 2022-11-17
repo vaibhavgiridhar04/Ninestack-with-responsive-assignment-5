@@ -474,6 +474,9 @@ padding: 0 1.5rem;
 
 /* ========================================= Media query =============================================== */
 @media (max-width:995px) {
+  html{
+    font-size: 39%;
+  }
   .link-nav{
     display: none;
     width: 100%;
